@@ -41,4 +41,4 @@ Desenvolvido por **Gustavo Santos**.
 Projeto criado para praticar os fundamentos da linguagem JavaScript e fortalecer a lógica de programação.
 
 ⭐ Se este projeto te ajudou, deixe uma estrela no repositório!
-](https://github.com/gustlxv/JS-EX1)
+
